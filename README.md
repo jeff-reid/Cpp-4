@@ -1,6 +1,4 @@
 # Cpp-4
-Small programs built for class assignments
-
 Write a program that uses WHILE LOOPS to perform the following steps:
 Prompt the user to input two integers: firstNum and secondNum (firstNum must be less than secondNum).
 1. Output all odd numbers between firstNum and secondNum.
